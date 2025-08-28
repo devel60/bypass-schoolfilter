@@ -13,4 +13,4 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 # begin the rerouting
- 	162.159.128.233 discord.google.com
+162.159.128.233 discord.google.com
