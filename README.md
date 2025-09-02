@@ -19,6 +19,11 @@ some websites will give an error, ignore it
 ## on ios:
 wip, not possible at this moment due to not having global dns settings
 
+## on the chromebook:
+go to the hosts file here and see what websites you want to go to, then see the domain attached to it. for example, discord is nytimes.com
+
+when you go to a link for a website, make sure to replace the url with the unblocked one. for example, gist.github.com will instead be gist.github.com
+
 # notes
 you must disconnect from the hotspot and reconnect to the school wifi if you want to access educational sites because most will be redirected to unblock sites
 
