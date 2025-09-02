@@ -1,6 +1,9 @@
 bypass lightspeed with dns. this is for my school, but may work for others
+
 the school wont be able to do anything about it, as nothing is done on the school device besides connect to a hotspot
+
 i am absolutely not responsible if you get in trouble for this
+
 pls read everything to minimize the risk
 
 # instructions (incomplete but should be good enough)
@@ -18,4 +21,5 @@ wip, not possible at this moment due to not having global dns settings
 
 # notes
 you must disconnect from the hotspot and reconnect to the school wifi if you want to access educational sites because most will be redirected to unblock sites
+
 you probably should stay connected to the school wifi if you know the teacher is on some monitoring software like hapara, otherwise theyll see youre offline and get suspicious
