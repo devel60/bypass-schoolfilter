@@ -9,11 +9,17 @@ pls read everything to minimize the risk
 # instructions (incomplete but should be good enough)
 ## on android:
 go to settings > connections > more connection settings or search for DNS
+
 set private dns to devel60.duckdns.org
+
 make your hotspot never turn off when you turn it on
+
 make your hotspot a private network so teachers dont see it
+
 turn on hotspot when you get to school and put it in your bag/binder or wherever teachers dont see but you can carry it around
+
 connect to hotspot by manually putting in its name and password
+
 some websites will give an error, ignore it
 
 ## on ios:
@@ -23,6 +29,11 @@ wip, not possible at this moment due to not having global dns settings
 go to the [hosts file here](https://github.com/devel60/bypass-schoolfilter/blob/main/hosts) and see what websites you want to go to, then see the domain attached to it. for example, discord is nytimes.com
 
 when you go to a link for a website, make sure to replace the url with the unblocked one. for example, gist.github.com will instead be gist.github.com
+
+# experimental
+if youre on ios (or android without the dns settings), there may be a fix for you, but it can be patched in the future, so beware
+
+instead of trying to change the dns settings on the mobile device, you can try to change it on the chromebook. however, if schools block changing the dns settings, then you wont be able to do this anymore
 
 # notes
 you must disconnect from the hotspot and reconnect to the school wifi if you want to access educational sites because most will be redirected to unblock sites
