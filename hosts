@@ -1,3 +1,12 @@
 # begin the rerouting
-162.159.128.233 discord.google.com
-140.82.116.4 gottle.google.com
+
+#discord
+162.159.128.233 nytimes.com
+#github
+140.82.116.4 cnn.com
+#poki
+104.18.143.9 abc.com
+#domaintools
+141.193.213.21 youtube.com
+#coolmath games
+104.18.36.160 microsoft.com
