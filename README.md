@@ -20,7 +20,7 @@ some websites will give an error, ignore it
 wip, not possible at this moment due to not having global dns settings
 
 ## on the chromebook:
-go to the hosts file here and see what websites you want to go to, then see the domain attached to it. for example, discord is nytimes.com
+go to the [hosts file here](https://github.com/devel60/bypass-schoolfilter/blob/main/hosts) and see what websites you want to go to, then see the domain attached to it. for example, discord is nytimes.com
 
 when you go to a link for a website, make sure to replace the url with the unblocked one. for example, gist.github.com will instead be gist.github.com
 
